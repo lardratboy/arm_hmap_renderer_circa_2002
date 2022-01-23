@@ -1,0 +1,2 @@
+/home/bpt/gba-toolchain/arm-gnu-toolchain/bin/arm-none-eabi-ar qc librom.a  CMakeFiles/rom.dir/crt0.s.obj CMakeFiles/rom.dir/gba-syscalls.c.obj
+/home/bpt/gba-toolchain/arm-gnu-toolchain/bin/arm-none-eabi-ranlib librom.a

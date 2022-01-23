@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/bpt/hmap/build/CMakeFiles/gbafix"
+		},
+		{
+			"file" : "/home/bpt/hmap/build/CMakeFiles/gbafix.rule"
+		},
+		{
+			"file" : "/home/bpt/hmap/build/CMakeFiles/gbafix-complete.rule"
+		},
+		{
+			"file" : "/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-install.rule"
+		},
+		{
+			"file" : "/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-mkdir.rule"
+		},
+		{
+			"file" : "/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-download.rule"
+		},
+		{
+			"file" : "/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-update.rule"
+		},
+		{
+			"file" : "/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-patch.rule"
+		},
+		{
+			"file" : "/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-configure.rule"
+		},
+		{
+			"file" : "/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gbafix"
+		],
+		"name" : "gbafix"
+	}
+}

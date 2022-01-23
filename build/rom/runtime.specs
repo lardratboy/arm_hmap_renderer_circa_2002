@@ -1,0 +1,8 @@
+%rename link link_b
+
+*link:
+%(link_b) -T rom/gba.ld%s --gc-sections %:replace-outfile(-lc -lc_nano) %:replace-outfile(-lg -lg_nano) %:replace-outfile(-lrdimon -lrdimon_nano) %:replace-outfile(-lstdc++ -lstdc++_nano) %:replace-outfile(-lsupc++ -lsupc++_nano)
+
+*startfile:
+crti%O%s crtbegin%O%s rom/librom.a%s
+

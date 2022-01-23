@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+24fa21fe3a3bbd0a5c96e441f51ad703 /home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-build
+0ca7e392364e012e5b92ca9404404c0f /home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-configure
+717ada85f413bbe07c95fc21db316341 /home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-download
+47621e7353f2b26a9f67516fc7d85c66 /home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-install
+d3d15a55cd87f60883cbd1cdbcd3d570 /home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-mkdir
+8448d5e2153b097f3419f5f881435554 /home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-patch
+df322e03a27dc535bff8cf64df8e577a /home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-update
+5673ea9ad2635511a7fb86eb19d1cf2c CMakeFiles/gbafix
+22b8fb87d8414740ca0750ea85e0684d CMakeFiles/gbafix-complete

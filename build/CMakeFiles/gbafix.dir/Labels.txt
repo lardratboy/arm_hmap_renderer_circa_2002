@@ -1,0 +1,13 @@
+# Target labels
+ gbafix
+# Source files and their labels
+/home/bpt/hmap/build/CMakeFiles/gbafix
+/home/bpt/hmap/build/CMakeFiles/gbafix.rule
+/home/bpt/hmap/build/CMakeFiles/gbafix-complete.rule
+/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-install.rule
+/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-mkdir.rule
+/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-download.rule
+/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-update.rule
+/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-patch.rule
+/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-configure.rule
+/home/bpt/gba-toolchain/tools/gbafix/src/gbafix-stamp/gbafix-build.rule

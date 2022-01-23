@@ -1,0 +1,1 @@
+/home/bpt/gba-toolchain/arm-gnu-toolchain/bin/arm-none-eabi-g++  -mabi=aapcs -march=armv4t -mcpu=arm7tdmi   CMakeFiles/cplusplus.dir/hmap1.cpp.obj CMakeFiles/cplusplus.dir/sin_cos.c.obj CMakeFiles/cplusplus.dir/armhmap.s.obj  -o cplusplus.elf  -specs=rom/runtime.specs 

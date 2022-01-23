@@ -1,0 +1,1 @@
+D:\BPTLLC\testbed\imaadpcmencoder\Release\imaadpcmencoder.exe %1.raw %1_(%2)Adpcm.raw -b8 %3 %4 %5 %6 %7 %8 %9
